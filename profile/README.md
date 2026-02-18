@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Modus Code Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Modus Team Banner" width="100%" />
 </div>
 
 <br>
 
-**Modus Code** is an engineering collective from [Ostroh Academy](https://oa.edu.ua) focused on building high-standard open-source solutions. We prioritize clean architecture, methodical development, and modern tech stacks.
+**Modus Team** is an engineering collective from [Ostroh Academy](https://oa.edu.ua) focused on building high-standard open-source solutions. We prioritize clean architecture, methodical development, and modern tech stacks.
 
 ---
 
@@ -40,5 +40,5 @@ Contact our team members directly.
 ---
 
 <div align="center">
-  <sub>Modus Code © 2026 - Methodical Engineering.</sub>
+  <sub>Modus Team © 2026 - Methodical Engineering.</sub>
 </div>
