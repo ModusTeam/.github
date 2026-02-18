@@ -19,14 +19,25 @@
 
 ### 👥 The Core
 
-<a href="https://github.com/Kossman">
+<a href="https://github.com/stkossman">
   <img width="100" height="100" src="https://avatars.githubusercontent.com/u/170632168?v=4" 
        alt="Kossman" align="left" 
        style="margin-right: 20px; border-radius: 4px;">
 </a>
 
-#### [Kossman](https://github.com/Kossman)
+#### [Kossman](https://github.com/stkossman)
 **Founder & Lead Architect** Full-stack developer specializing in TypeScript and scalable system design. Committed to the "Modus" of clean, self-documenting code.
+
+<br clear="left">
+
+<a href="https://github.com/100kgtrotila">
+  <img width="100" height="100" src="https://avatars.githubusercontent.com/u/185120833?v=4" 
+       alt="Kossman" align="left" 
+       style="margin-right: 20px; border-radius: 4px;">
+</a>
+
+#### [Danylo Marynych](https://github.com/100kgtrotila)
+**Backend Developer** specializing in Python.
 
 <br clear="left">
 
