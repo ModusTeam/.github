@@ -37,7 +37,7 @@
 </a>
 
 #### [Danylo Marynych](https://github.com/100kgtrotila)
-**Backend Developer** specializing in Python.
+**Backend Developer**.
 
 <br clear="left">
 
